@@ -1,0 +1,11 @@
+"race","category","rate"
+"Latinx","case_rate",0.204974703826598
+"Latinx","death_rate",0.00286143248255763
+"Asian","case_rate",0.118178605684285
+"Asian","death_rate",0.00181735574738755
+"Black","case_rate",0.153259566802108
+"Black","death_rate",0.00394632894196054
+"White","case_rate",0.151538861105859
+"White","death_rate",0.00188105965273748
+"Other","case_rate",0.500223262275291
+"Other","death_rate",0.000893049101162618
