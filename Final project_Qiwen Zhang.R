@@ -1,6 +1,5 @@
 ### Data II Final Project
 ### Qiwen Zhang
-### 12284884
 
 library(tidyverse)
 library(rvest)

@@ -1,6 +1,6 @@
 ### Data II Final Project - Shiny app
 ### Qiwen Zhang
-### 12284884
+
 
 # URL: https://qiwen24.shinyapps.io/final-project-qiwen/
 

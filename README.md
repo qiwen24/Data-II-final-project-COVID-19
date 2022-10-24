@@ -5,7 +5,7 @@
 ## Winter 2022
 
 ## Due: Thursday, March 17th by midnight on GitHub
-## Qiwen Zhang 12284884
+## Qiwen Zhang
 
 ### Research Question:
 In this project, I tried to study the relationship between Chicago COVID-19 death rate and race as well as fully vaccinated rate. My initial attempt was to study the relationship between COVID-19 and economic status across different neighborhoods in Chicago. However, I eventually switched to the current research question because it was hard to obtain up-to-date economic data (e.g. income and savings) by neighborhoods.
